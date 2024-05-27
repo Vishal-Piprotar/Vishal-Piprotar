@@ -1,16 +1,36 @@
-## Hi there 👋
+# Vishal Piprotar
 
-<!--
-**Vishal-Piprotar/Vishal-Piprotar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, Coders!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Vishal Piprotar, A undergraduate IT engineer and passionate about Web Development and DSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💼 IT Engineer
+- 📫 Reach me: piprotarvishal20@gmail.com 
+- 🔖 L D college Of Engineering
+
+### 🔧 Skills & Technologies
+
+- **Languages:**  :- C , java , SQL , HTML , CSS , javascript , MERN Stack , PHP 
+- **Tools:** :- Android Studio,VS Code 
+- **Framework** :- javascript (Reactjs , Node js) 
+
+### 🌱 I'm Currently Learning
+
+- MERN Stack Developer 
+- 
+
+### 💻 Projects
+
+#### 
+
+
+
+### 🤝 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/vishal-piprotar/
+### 🙏 Acknowledgements
+
+- Vs Code 
+
