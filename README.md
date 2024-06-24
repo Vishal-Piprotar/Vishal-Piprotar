@@ -1,5 +1,7 @@
 # Vishal Piprotar
 
+<img align="left" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAAAAA&pid=Api&P=0&h=180">
+
 ## 👋 Hello, Coders!
 
 
@@ -7,7 +9,7 @@ Welcome to my GitHub profile! I'm Vishal Piprotar, an undergraduate IT engineer 
 
 ## 👨🏻‍💼 About Me
 
-I'm a dedicated MERN Stack developer and a Java enthusiast, constantly exploring new technologies and improving my skills in data structures, algorithms, and new JavaScript technologies like Next.js. My goal is to build innovative solutions that blend design and technology seamlessly.
+I'm a dedicated MERN Stack developer and a Java enthusiast, constantly exploring new technologies and improving my skills in data structures, algorithms, and new JavaScript technologies like Next.js. 
 
 ### 🛠️ My Specialties
 - MERN Stack
