@@ -61,6 +61,8 @@ I'm a dedicated MERN Stack developer and a Java enthusiast, constantly exploring
 ## 📊 GitHub Stats
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Piprotar&theme=highcontrast&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Piprotar&theme=highcontrast&layout=compact&hide_border=true)
+![Vishal-Piprotar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Piprotar&show_icons=true&locale=en&theme=black)
+
 
 ## Projects
 
