@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm Vishal Piprotar, an undergraduate IT engineer 
 I'm a dedicated MERN Stack developer and a Java enthusiast, constantly exploring new technologies and improving my skills in data structures, algorithms, and new JavaScript technologies like Next.js.
 <br />
 <br />
+<br />
 ![](https://komarev.com/ghpvc/?username=Vishal-Piprotar&color=blueviolet&style=flat-square)
 
 
